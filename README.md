@@ -19,13 +19,20 @@ L'applicazione è stata sviluppata per fornire un'interfaccia web per la gestion
 
 ## Installazione
 
-1. Clonare il repository: `git clone https://github.com/tuo-username/gestionale-express-react-mysql.git`
+1. Clonare il repository: 
+    `git clone https://github.com/tuo-username/gestionale-express-react-mysql.git`
 
-2. Navigare nella cartella del progetto: `cd gestionale-express-react-mysql`
+2. Navigare nella cartella del progetto: 
+    `cd gestionale-express-react-mysql`
 
-3. Installare le dipendenze per il server Express: `cd server` `npm install`
+3. Installare le dipendenze per il server Express: 
+    `cd server` 
+    `npm install`
 
-4. Tornare alla cartella principale del progetto e installare le dipendenze per il client React: `cd ..` `cd client` `npm install`
+4. Tornare alla cartella principale del progetto e installare le dipendenze per il client React: 
+    `cd ..` 
+    `cd client` 
+    `npm install`
 
 
 
