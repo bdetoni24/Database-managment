@@ -3,7 +3,7 @@
 Questo progetto è un'applicazione web basata su Express, React e MySQL, che funge da gestionale per gestire determinati dati o processi.
 
 ## Descrizione
-
+ 
 L'applicazione è stata sviluppata per fornire un'interfaccia web per la gestione di dati specifici o per automatizzare determinati processi. Utilizza Express come server backend per gestire le richieste e le operazioni sul database MySQL per archiviare e recuperare i dati. La parte client dell'applicazione è stata realizzata utilizzando React, che offre un'interfaccia utente interattiva e reattiva. Attraverso l'interfaccia utente, gli utenti possono visualizzare, aggiungere, modificare o eliminare i dati pertinenti al gestionale.
 
 ## Funzionalità
